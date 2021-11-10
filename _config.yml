@@ -7,16 +7,16 @@ title: 李佳栋的博客
 subtitle: 趁现在还来得及，我想看清楚自己.
 author: 李佳栋
 language: zh-cn
-timezone:
+timezone: Asia/Shanghai
 
 nav:
   home: /
   about: /about/
-  articles: /archives/
+  articles: /archive/
   # projects: /
 
 social_links:
-  github: http://github.com/probberechts/cactus-dark
+  github: /
   twitter: /
   facebook: /
   linkedin: /

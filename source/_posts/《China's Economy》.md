@@ -1,5 +1,5 @@
 ---
-title: 《China's Economy》笔记
+title: 《China's Economy》
 date: 2021-07-01 22:40:29
 tags:
     - 笔记
