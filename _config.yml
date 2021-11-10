@@ -145,5 +145,5 @@ theme: cactus
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
  type: git
- repo: git@e.coding.net:personal/Journal.git
- branch: master
+ repo: git@github.com:iimondo/Lee-Journal.git
+ branch: site
