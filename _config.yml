@@ -26,7 +26,7 @@ gravatar:
   email: z.lijiadong@foxmail.com
 
 posts_overview:
-  show_all_posts: true
+  show_all_posts: false
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
